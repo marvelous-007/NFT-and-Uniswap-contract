@@ -1,0 +1,11 @@
+{
+  "name": "Boondocks",
+  "description": "A fictional animated movie",
+  "external_url": "https://twitter.com/dtechwhiz",
+  "image": "https://ipfs.filebase.io/ipfs/QmXdP16Bzf7iasjaTZQ4SSvUsW6RRy8e1CCKryVKyn6Fps",
+  "attributes": [
+    { "trait_type": "boondocks", "value": "action" },
+    { "trait_type": "image type", "value": "3D" },
+    { "trait_type": "Crypto", "value": "Ether" }
+  ]
+}
